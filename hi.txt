@@ -1,1 +1,5 @@
 Hi, First
+<<<<<<< HEAD
+=======
+Hi .new
+>>>>>>> e2d04fa (new change)
